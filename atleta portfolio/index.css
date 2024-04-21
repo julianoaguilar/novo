@@ -1,0 +1,51 @@
+head {
+    border: end start radius 10px;
+    ;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#IMG1 {
+    border-radius: 50%;
+
+}
+
+#img2 {
+    
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-color: grey;
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    justify-content: flex-end;
+}
+
+#h12 {
+    background-color: grey;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#a1{
+    background-color: ;
+}
+#a2{
+    background-color: ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
